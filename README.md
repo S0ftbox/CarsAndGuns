@@ -6,15 +6,15 @@ Currently in the project:
 * Character movement
 * Vehicle controller
 * AI
-⋅⋅⋅⋅* Regular pedestrians
-⋅⋅⋅⋅* Cops
-⋅⋅⋅⋅* Vehicles
+  * Regular pedestrians
+  * Cops
+  * Vehicles
 * Save/load system
 * Day and night cycle with dynamic weather
 * Weapon system
 * Destrucion system
-⋅⋅⋅⋅* Destructible objects on the map
-⋅⋅⋅⋅* Vehicle damage
+  * Destructible objects on the map
+  * Vehicle damage
 * Wanted system
 * Mission system
 * Vehicle tuning system
